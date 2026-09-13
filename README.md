@@ -1,1 +1,2 @@
-# Tugas_Besar_AI
+# Leaf Classification
+"Kemangi" and "Seledri" leaf classification
